@@ -1,4 +1,4 @@
-YOLO Object Detection with LED Control using Arduino 
+YOLO Object Detection with LED Control using Arduino  
 Project Description
 This project uses YOLOv8 for object detection and an Arduino Uno (or Mega) to control an LED. If an electronic device is detected in the camera feed, the LED glows. The system integrates computer vision (YOLOv8) and hardware control (Arduino) to demonstrate real-time object detection and physical interaction.
 
