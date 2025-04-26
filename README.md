@@ -6,7 +6,7 @@ Project Features
 ✔ Object Detection: Uses YOLOv8 to detect various objects.
 ✔ Electronic Device Filtering: Detects specific electronic items (like phones, laptops, TVs, keyboards, etc.).
 ✔ Hardware Integration: Sends signals to Arduino to control an LED.
-✔ Real-time Processing: Uses OpenCV to display detected objects live.
+✔ Real-time Processing: Uses OpenCV to display detected objects live
 
 Circuit Diagram
 ![Yolov_diagram](https://github.com/user-attachments/assets/b5fc5863-2f49-4ee5-9727-dbad6629f9c7)
